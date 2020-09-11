@@ -1,0 +1,16 @@
+{
+  "publisher": "qub",
+  "project": "tictactoe-java",
+  "version": "2",
+  "java": {
+    "mainClass": "qub.QubTicTacToe",
+    "shortcutName": "qub-tictactoe",
+    "dependencies": [
+      {
+        "publisher": "qub",
+        "project": "lib-java",
+        "version": "66"
+      }
+    ]
+  }
+}
